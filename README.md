@@ -1,7 +1,3 @@
-# Required dependings:
-
-`<orderEntry type="library" name="com.googlecode.json-simple:json-simple:1.1" level="project" />`
-
 # Usefull OpenSSL comands:
 
 Generate a 1024-bit RSA private key
